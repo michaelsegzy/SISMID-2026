@@ -5,3 +5,4 @@
 .env
 .quarto/
 _site/
+.Rproj.user
